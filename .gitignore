@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+*.egg
+*.log
+Tic Tac Toe.ipynb
+*.ipynb
+.DS_Store
